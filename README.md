@@ -6,7 +6,9 @@ The Idea
 
 You got a Client for Windows Android or Linux(Mac is not planed right now) the Plan is that you can controll your SWARM from anywhere and that it change between Spider and Multicopter mode.
 
-A Fly together Mode in that you can Fly together with other Drones The Drones will connect to an SWARM They share Information about the Fly and Akku etc. to fly together in autopilot maybe.
+A Fly together Mode in that you can Fly together with other Drones the Drones will connect to an SWARM they share information about the Fly and Akku etc to fly together in autopilot maybe.
+
+
 Structure
 ----------
 
