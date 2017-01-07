@@ -1,0 +1,32 @@
+Motoren:
+Version 1:
+	Emax MT2213 Brushless Motor 935kv 3S 11,1V Quadrocopter Set inkl. Propeller
+	47,89EUR mit Propeller
+	https://goo.gl/vwZZFo
+Version 2:
+	LHI 2CW 2CCW MT2204? 2300KV Brushless Motor For FPV QAV250 RC Racing Quadcopter Multicopter 
+	36,00EUR ohne Propeller
+	https://goo.gl/CWeR5M
+
+Akku:
+Version 1:
+	2xFLOUREON® 7,4V 6200mAh 40C Lipo RC Akku mit Dean-Style-T-Stecker für RC Modellbau Auto Truck Boote Helikopter Hubschrauber Helicopter Airplane Flugzeug Hobby DIY 
+	48,99EUR
+	https://goo.gl/nrrLcg
+Version 2:
+	1xFLOUREON® 7,4V 5200mAh Lipo RC Akku Pack mit Deans-T Stecker für RC Evader BX Auto Car Truck LKW Truggy RC Hobby
+	39,99EUR
+	https://goo.gl/3Snlu4
+Contol Board
+version 1:
+	LHI Pro Racing F3 Flight Controller Board Cleaflight 6DOF Standard for Mini FPV Racing QAV250 ZMR250 QAV280 QAV180 QAV210 Mini Quadcopter Better than Naze Flip32 RV5 6DOF 
+	36,00EUR
+	https://goo.gl/qbk9k1
+Version 2:
+	-/-
+Regler für Motoren:
+Version 1:
+	80A Electronic Speed Controller Brushless Motor RC ESC Regler Brushlessregler 
+	21,11EUR 
+	https://goo.gl/xzrqDy
+
